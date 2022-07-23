@@ -1,0 +1,152 @@
+{
+    "hello": [
+        "Hello, what can I help you with?",
+        "Hi what can I do for you today?"
+    ],
+    "bye": [
+        "bye",
+        "thanks",
+        "thank you",
+        "See you later.",
+        "See you next time."
+    ],
+    "whatsup": [
+        "I feel happy answering your questions."
+    ],
+    "how": [
+        "Industrial / Industry safety is measured thru post analysis of accidents occurred across industries like Mining and Metal. It helped identify risks involved of any work and the precautions needs to aviod such incidents in future."
+    ],
+    "about": [
+        "Industrial / Industry safety is all about how best to protect employee, labour and worker from any kind of accident may occure and help alert with risk involved well before get into the job."
+    ],
+    "what is this": [
+        "It is all about industrial safety is all about how best to protect employee, labour and worker from any kind of accident may occure and help alert with risk involved well before get into the job.",
+        "Industrial / Industry safety is all about how best to protect employee, labour and worker from any kind of accident may occure and help alert with risk involved well before get into the job."
+    ],
+    "whats all about": [
+        "It is all about industrial safety is all about how best to protect employee, labour and worker from any kind of accident may occure and help alert with risk involved well before get into the job.",
+        "Industrial / Industry safety is all about how best to protect employee, labour and worker from any kind of accident may occure and help alert with risk involved well before get into the job."
+    ],
+    "regarding": [
+        "It is all about industrial safety is all about how best to protect employee, labour and worker from any kind of accident may occure and help alert with risk involved well before get into the job.",
+        "Industrial / Industry safety is all about how best to protect employee, labour and worker from any kind of accident may occure and help alert with risk involved well before get into the job."
+    ],
+    "please help": [
+        "It is all about industrial safety is all about how best to protect employee, labour and worker from any kind of accident may occure and help alert with risk involved well before get into the job.",
+        "Industrial / Industry safety is all about how best to protect employee, labour and worker from any kind of accident may occure and help alert with risk involved well before get into the job."
+    ],
+    "guide me": [
+        "It is all about industrial safety is all about how best to protect employee, labour and worker from any kind of accident may occure and help alert with risk involved well before get into the job.",
+        "Industrial / Industry safety is all about how best to protect employee, labour and worker from any kind of accident may occure and help alert with risk involved well before get into the job."
+    ],
+    "industry": [
+        "Mining and Metal."
+    ],
+    "sector": [
+        "Mining and Metal."
+    ],
+    "Types of accidents": [
+        "Here is the list of accidents: Accident_level and Potential_accident_level.",
+        "we have around 5 Accident_levels, from Level-1 (as minor) to Level-5 (as major)."
+    ],
+    "Types of accident levels": [
+        "we have around 5 Accident_levels, from Level-1 (as minor) to Level-5 (as major)."
+    ],
+    "industry accident": [
+        "Recorded accidents from 12 different plants of Mining and Metal industry in 03 different countries majorly from Brazil."
+    ],
+    "sector accident": [
+        "Recorded accidents from 12 different plants of Mining and Metal industry in 03 different countries majorly from Brazil."
+    ],
+    "most accident": [
+        "most accidents happened in Mining and Metal",
+        "Maximum accidents happened in Mining and Metal"
+    ],
+    "accident": [
+        "Recorded accidents from 12 different plants of Mining and Metal industry in 03 different countries majorly from Brazil."
+    ],
+    "accident type": [
+        "Here is the list of accidents: Accident_level and Potential_accident_level."
+    ],
+    "nature of accident": [
+        "we have around 5 Accident_levels, from Level-1 (as minor) to Level-5 (as major)."
+    ],
+    "accident nature": [
+        "we have around 5 Accident_levels, from Level-1 (as minor) to Level-5 (as major)."
+    ],
+    "maximum accident": [
+        "Maximum accident occurred in Year 2016",
+        "Maximum accident occurred in May, Year 2016"
+    ],
+    "accident severity": [
+        "Maximum accident occurred in Year 2016",
+        "Maximum accident occurred in May, Year 2016"
+    ],
+    "accident year": [
+        "Maximum accident occurred in Year 2016",
+        "Maximum accident occurred in May, Year 2016"
+    ],
+    "risk type": [
+        "Projection of fragments, Bees, fall, Venomous Animals, Fall prevention (same level), cut etc."
+    ],
+    "risk": [
+        "Projection of fragments, Bees, fall, Venomous Animals, Fall prevention (same level), cut etc."
+    ],
+    "risk description": [
+        "Projection of fragments, Bees, fall, Venomous Animals, Fall prevention (same level), cut etc."
+    ],
+    "risk covered": [
+        "Projection of fragments, Bees, fall, Venomous Animals, Fall prevention (same level), cut etc."
+    ],
+    "risk found": [
+        "Projection of fragments, Bees, fall, Venomous Animals, Fall prevention (same level), cut etc."
+    ],
+    "industry risk": [
+        "Projection of fragments, Bees, fall, Venomous Animals, Fall prevention (same level), cut etc."
+    ],
+    "sector risk": [
+        "Projection of fragments, Bees, fall, Venomous Animals, Fall prevention (same level), cut etc."
+    ],
+    "accident trend": [
+        "Industry wise accident trend is Mining and Metal."
+    ],
+    "more accident": [
+        "Industry wise accident trend is Mining and Metal."
+    ],
+    "industry wise more accident": [
+        "Industry wise accident trend is Mining and Metal."
+    ],
+    "sector wise more accident": [
+        "Industry wise accident trend is Mining and Metal."
+    ],
+    "industry year wise accident": [
+        "Industry and year wise more accident happened in Mining, then Metal in 2016."
+    ],
+    "all about": [
+        "It is all about Industrial safety."
+    ],
+    "what it is": [
+        "It is all about Industrial safety."
+    ],
+    "what is all about": [
+        "It is all about Industrial safety."
+    ],
+    "any clue": [
+        "It is all about Industrial safety."
+    ],
+    "brief": [
+        "It is all about Industrial safety."
+    ],
+    "objective": [
+        "Design an utility tool which can help the professionals to highlight the safety risk as per the incident description."
+    ],
+    "discussion point": [
+        "Design an utility tool which can help the professionals to highlight the safety risk as per the incident description."
+    ],
+    "what does help": [
+        "Design an utility tool which can help the professionals to highlight the safety risk as per the incident description."
+    ],
+    "what it guide": [
+        "Design an utility tool which can help the professionals to highlight the safety risk as per the incident description."
+    ]
+}

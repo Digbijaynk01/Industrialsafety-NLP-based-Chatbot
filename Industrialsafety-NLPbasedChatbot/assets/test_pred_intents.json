@@ -1,0 +1,189 @@
+{
+    "hello": [
+        "Hello, what can I help you with?",
+        "Hi what can I do for you today?"
+    ],
+    "bye": [
+        "bye",
+        "thanks",
+        "thank you",
+        "See you later.",
+        "See you next time."
+    ],
+    "whatsup": [
+        "How are you?",
+        "What's up?"
+    ],
+    "how": [
+        "How Industrial safety is measured?",
+        "How safety is measured?"
+    ],
+    "about": [
+        "What is this?",
+        "What is Industry safety?",
+        "What is Industrial safety?",
+        "Would you like more information on Industrial safety?",
+        "Would you like to koow how Industrial safety can help protect human life?"
+    ],
+    "what is this": [
+        "What is this?",
+        "What is Industry safety?",
+        "What is Industrial safety?",
+        "Would you like more information on Industrial safety?",
+        "Would you like to koow how Industrial safety can help protect human life?"
+    ],
+    "whats all about": [
+        "What is this?",
+        "What is Industry safety?",
+        "What is Industrial safety?",
+        "Would you like more information on Industrial safety?",
+        "Would you like to koow how Industrial safety can help protect human life?"
+    ],
+    "regarding": [
+        "What is this?",
+        "What is Industry safety?",
+        "What is Industrial safety?",
+        "Would you like more information on Industrial safety?",
+        "Would you like to koow how Industrial safety can help protect human life?"
+    ],
+    "please help": [
+        "What is this?",
+        "What is Industry safety?",
+        "What is Industrial safety?",
+        "Would you like more information on Industrial safety?",
+        "Would you like to koow how Industrial safety can help protect human life?"
+    ],
+    "guide me": [
+        "What is this?",
+        "What is Industry safety?",
+        "What is Industrial safety?",
+        "Would you like more information on Industrial safety?",
+        "Would you like to koow how Industrial safety can help protect human life?"
+    ],
+    "objective": [
+        "What is this?",
+        "What is Industry safety?",
+        "What is Industrial safety?",
+        "Would you like more information on Industrial safety?",
+        "Would you like to koow how Industrial safety can help protect human life?"
+    ],
+    "discussion point": [
+        "What is this?",
+        "What is Industry safety?",
+        "What is Industrial safety?",
+        "Would you like more information on Industrial safety?",
+        "Would you like to koow how Industrial safety can help protect human life?"
+    ],
+    "sector": [
+        "Would you like to know which all industries/sectors guide on safety?",
+        "Wouls you like to koow how Industrial safety can help protect human life?"
+    ],
+    "industry": [
+        "Would you like to know which all industries/sectors guide on safety?",
+        "Wouls you like to koow how Industrial safety can help protect human life?"
+    ],
+    "industry accident": [
+        "which industries/sectors are considered to record accidents?",
+        "which country's data is used to measure accident?",
+        "How many industries/sectors samples are used to measure accident?"
+    ],
+    "sector accident": [
+        "which industries/sectors are considered to record accidents?",
+        "which country's data is used to measure accident?",
+        "How many industries/sectors samples are used to measure accident?"
+    ],
+    "most accident": [
+        "which industry has most accidents?",
+        "which industry has maximum accidents?",
+        "maximum accidents?"
+    ],
+    "accident": [
+        "which industries/sectors are considered to record accidents?",
+        "which country's data is used to measure accident?",
+        "How many industries/sectors samples are used to measure accident?"
+    ],
+    "accident type": [
+        "what all types of accident recorded?",
+        "does accident indicate severity type?"
+    ],
+    "type of accident": [
+        "what all types of accident recorded?",
+        "does accident indicate severity type?"
+    ],
+    "nature of accident": [
+        "what all types of accident recorded?",
+        "does accident indicate severity type?"
+    ],
+    "accident nature": [
+        "what all types of accident recorded?",
+        "does accident indicate severity type?"
+    ],
+    "maximum accident": [
+        "which year maximum accident occured?",
+        "which month and year maximum accident happened?"
+    ],
+    "accident severity": [
+        "which year maximum accident occured?",
+        "which month and year maximum accident happened?"
+    ],
+    "accident year": [
+        "which year maximum accident occured?",
+        "which month and year maximum accident happened?"
+    ],
+    "risk type": [
+        "what kind of industry risks are recorded?",
+        "does industry record risks for safety?"
+    ],
+    "risk": [
+        "what kind of industry risks are recorded?",
+        "does industry record risks for safety?"
+    ],
+    "risk description": [
+        "what kind of industry risks are recorded?",
+        "does industry record risks for safety?"
+    ],
+    "risk covered": [
+        "what kind of industry risks are recorded?",
+        "does industry record risks for safety?"
+    ],
+    "risk found": [
+        "what kind of industry risks are recorded?",
+        "does industry record risks for safety?"
+    ],
+    "industry risk": [
+        "what kind of industry risks are recorded?",
+        "does industry record risks for safety?"
+    ],
+    "sector risk": [
+        "what kind of industry risks are recorded?",
+        "does industry record risks for safety?"
+    ],
+    "accident trend": [
+        "which industry/sector ignored safety?",
+        "which industry/sector observed more accident?",
+        "which industry/sector recorded more risk and ignored safety?"
+    ],
+    "more accident": [
+        "which industry/sector ignored safety?",
+        "which industry/sector observed more accident?",
+        "which industry/sector recorded more risk and ignored safety?"
+    ],
+    "industry wise more accident": [
+        "which industry/sector ignored safety?",
+        "which industry/sector observed more accident?",
+        "which industry/sector recorded more risk and ignored safety?"
+    ],
+    "sector accident": [
+        "which industry/sector ignored safety?",
+        "which industry/sector observed more accident?",
+        "which industry/sector recorded more risk and ignored safety?"
+    ],
+    "sector wise more accident": [
+        "which industry/sector ignored safety?",
+        "which industry/sector observed more accident?",
+        "which industry/sector recorded more risk and ignored safety?"
+    ],
+    "industry year wise accident": [
+        "which industry/sector have seen more accident year wise?"
+    ]
+}
